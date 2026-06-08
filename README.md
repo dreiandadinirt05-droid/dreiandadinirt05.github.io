@@ -173,7 +173,6 @@
                 <option>Facilities</option>
                 <option> Co Students</option>
                 <option> Utility Personnel</option>
-
             </select>
 
             <label>Staff Name (Optional)</label>
